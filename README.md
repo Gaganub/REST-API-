@@ -52,11 +52,11 @@ StudentAPI/
 git clone https://github.com/yourusername/StudentAPI.git
 cd StudentAPI
 
-2️⃣ Install .NET SDK (if not installed)
+2️⃣ . Install .NET SDK (if not installed)
 
 Download and install .NET SDK from here.
 
-3️⃣ Run the API
+3️⃣ . Run the API
 
 dotnet run
 
