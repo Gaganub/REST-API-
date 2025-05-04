@@ -27,6 +27,7 @@ else
 {
     app.UseExceptionHandler("/Home/Error");
     app.UseHsts();
+    //exit (handled_exception==0);
 }
 
 app.MapControllers();
